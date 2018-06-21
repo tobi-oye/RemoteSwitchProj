@@ -1,0 +1,15 @@
+header.masthead !important {
+    background-image: url('../../../../Index Page/startbootstrap-agency-gh-pages/startbootstrap-agency-gh-pages/img/header.jpeg');
+
+}
+
+p#head{
+    font-family:Georgia;
+    font-size:x-large;
+    color:#707070;
+}
+
+img#myImg{
+    float:left;
+}
+
